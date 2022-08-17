@@ -54,3 +54,8 @@ https://books.google.com.sg/books?id=qGURkdAr42cC&lpg=PA157&dq=abandoned%20locks
 
 Oracle Berkeley DB - Java Locks, Blocks and Deadlocks<br>
 https://docs.oracle.com/cd/E17276_01/html/gsg_xml_txn/java/blocking_deadlocks.html
+
+Project Loom <br>
+https://wiki.openjdk.org/display/loom/Main <br>
+Java runtime implementation of concurrency
+
