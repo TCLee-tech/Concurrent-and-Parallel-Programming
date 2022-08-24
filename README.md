@@ -59,3 +59,5 @@ Project Loom <br>
 https://wiki.openjdk.org/display/loom/Main <br>
 Java runtime implementation of concurrency
 
+Garbage Collection intro video <br>
+https://www.infoq.com/presentations/Understanding-Java-Garbage-Collection/
