@@ -42,8 +42,8 @@
 </ol>
 
 <p> Codes are in the "Parallel and Concurrent Processing" folder.<br>
-I ran the .java files in the /src folder using Visual Studio Code.<br>
-The .class files in the /production folder can be run using "cmd" window.  Navigate to the folder with the desired .class files. Type "cmd" in the search bar to open cmd window for that specific folder. To run, type "java file_name.class".
+You can run the .java files in the Parallel and Concurrent Processing/src folder using Visual Studio Code.<br>
+You can run the .class files in the Parallel and Concurrent Processing/production folder using a "cmd" window.  Navigate to the folder with the desired .class file. Type "cmd" in the search bar to open cmd window for that specific folder. To run, type "java file_name.class".
 
 Good references:<br>
 MIT software construction course<br>
